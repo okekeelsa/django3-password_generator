@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b503e6ef-59ca-4971-81e9-3f6015790471" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cBLO6pdtXUjD1iRdmInIwc22WF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="password_generator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/generator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generator/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b503e6ef-59ca-4971-81e9-3f6015790471" name="Default Changelist" comment="" />
+      <created>1589997004812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589997004812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="892" height="219" key="GridCell.Tab.0.bottom" timestamp="1590147804152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="892" height="219" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590147804152" />
+    <state width="892" height="219" key="GridCell.Tab.0.center" timestamp="1590147804151">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="892" height="219" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590147804151" />
+    <state width="892" height="219" key="GridCell.Tab.0.left" timestamp="1590147804151">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="892" height="219" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590147804151" />
+    <state width="892" height="219" key="GridCell.Tab.0.right" timestamp="1590147804152">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="892" height="219" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590147804152" />
+    <state x="154" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1590165748668">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="154" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590165748668" />
+    <state x="153" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1590159323114">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="153" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1590159323114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/generator/views.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
